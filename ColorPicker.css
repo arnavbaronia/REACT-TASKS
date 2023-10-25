@@ -1,0 +1,41 @@
+.color-picker-container {
+    text-align: center;
+  }
+  
+  .color-picker-button {
+    background-color: #0074d9;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .color-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+  .color-option {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  .selected-color-box {
+    margin-top: 20px;
+  }
+  
+  .selected-color-text {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .selected-color {
+    width: 50px;
+    height: 50px;
+  }
+  
